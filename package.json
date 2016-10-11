@@ -1,0 +1,25 @@
+{
+  "name": "chow-time",
+  "version": "1.0.0",
+  "description": "App for finding recipes and organizing yourself in the kitchen.",
+  "main": "server.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/billywaite/chow-time.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Billy Waite",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/billywaite/chow-time/issues"
+  },
+  "homepage": "https://github.com/billywaite/chow-time#readme"
+}
