@@ -6,4 +6,6 @@
 3. Store favorite recipes in your user profile.
 
 ## To do:
-1. Display json data from the yummly api in the index.html file
+1. Display json data from the yummly api
+2. Install dependecies
+3. Set up database files to make initial queries
