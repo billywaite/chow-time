@@ -7,5 +7,4 @@
 
 ## To do:
 1. Display json data from the yummly api
-2. Install dependecies
-3. Set up database files to make initial queries
+2. Set up database files to make initial queries
