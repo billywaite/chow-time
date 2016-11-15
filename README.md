@@ -10,4 +10,4 @@
 2. Set up database files to make initial queries
 
 ## Ideas:
-1. Instead of using the Yummly api, make this a collaboration tool where people can add recipes from other websites and type up recipes?
+1. Instead of using Node wrapped yummly api, do an AJAX call on the front end and give the ability to save/export the recipe.
