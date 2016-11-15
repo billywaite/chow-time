@@ -8,3 +8,6 @@
 ## To do:
 1. Display json data from the yummly api
 2. Set up database files to make initial queries
+
+## Ideas:
+1. Instead of using the Yummly api, make this a collaboration tool where people can add recipes from other websites and type up recipes?
